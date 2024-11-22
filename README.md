@@ -1,6 +1,6 @@
 Dawid Krajewski, 97646
 
-##Sprawozdanie
+## Sprawozdanie
 ### 1.Treść pliku Dockerfile:
 [Dockerfile](Dockerfile)
 
